@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/net/bookingpage/db/BookingPageDAO.java=UTF-8
+encoding//src/net/hotel/db/HotelDAO.java=UTF-8
+encoding//src/net/roomdetails/db/RoomDetailsDAO.java=UTF-8
+encoding//src/project/list/action/getMainListAction.java=UTF-8
+encoding//src/project/list/db/ListDAO.java=UTF-8
+encoding//src/project/user/db/UserDAO.java=UTF-8
